@@ -1,13 +1,26 @@
-## lista-toDo
+<h1 align="center"> Lista To-Do ou Lista de Afazeres </h1>
 
-A Lista ToDo consiste em uma aplicação simples, porém possibilita a criação e organiza de afazeres.
+<p align="center"> A Lista To-Do consiste em uma aplicação simples, possibilitando a criação e organiza de afazeres. <br/>
+</p>
 
-## Acessibilidade
 
-Disponível e acessível em: Chrome, Opera, Edge e dentre outros.
+## 🚀 Tecnologias
 
-## Finalidade
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-Essa aplicação é destinada  à fins educativos, no intuito de aperfeiçoamento em Html, Css e JavaScript.
-Divirta-se :)
+- HTML
+- CSS
+- JavaScript
+- Git e Github
+
+## :memo: Licença
+
+Esse projeto está sob a licença MIT.
+
+## 💻 Projeto
+
+A Lista To-Do é uma aplicação para afazeres
+
+- [Visite o projeto online](https://andreh-carioca.github.io/nlw-habits/)
+
 
