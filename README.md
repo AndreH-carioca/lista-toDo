@@ -21,6 +21,6 @@ Esse projeto está sob a licença MIT.
 
 A Lista To-Do é uma aplicação para afazeres
 
-- [Visite o projeto online](https://andreh-carioca.github.io/nlw-habits/)
+- [Visite o projeto online](https://andreh-carioca.github.io/lista-toDo/)
 
 
