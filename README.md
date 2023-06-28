@@ -1,8 +1,5 @@
 <h1 align="center"> Lista To-Do ou Lista de Afazeres </h1>
 
-<p align="center"> A Lista To-Do consiste em uma aplicação simples, possibilitando a criação e organiza de afazeres. <br/>
-</p>
-
 
 ## 🚀 Tecnologias
 
