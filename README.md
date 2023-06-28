@@ -23,4 +23,5 @@ A Lista To-Do é uma aplicação para afazeres
 
 - [Visite o projeto online](https://andreh-carioca.github.io/lista-toDo/)
 
+Projeto desenvolvido por André Higino Carioca 🧑‍💻 💚
 
